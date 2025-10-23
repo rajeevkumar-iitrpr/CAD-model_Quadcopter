@@ -2,24 +2,6 @@
 
 A SolidWorks CAD assembly and component library for a quadcopter drone — including base frame, motor mounts, landing gear, propeller, camera mount, and full assembly drawings.
 
----
-
-## 📁 Repository Contents
-
-| File / Folder                     | Description |
-|----------------------------------|-------------|
-| `Bottom Base.SLDPRT`             | The lower main frame plate of the quadcopter. |
-| `Upper Cover.SLDPRT`             | The top cover plate for electronics/housing. |
-| `Propeller.SLDPRT`               | Propeller model used in the assembly. |
-| `DC Motor.SLDPRT`                | Model of the motor used in the design. |
-| `Camera.SLDPRT`                   | Camera model for mounting on the quadcopter. |
-| `Camera holder.SLDPRT`           | Mounting bracket for the camera. |
-| `Camera stand.SLDPRT`            | Stand/boom for the camera mount. |
-| `Landing Base.SLDPRT`            | Landing gear model for the drone. |
-| `Drone Assembly.SLDASM`          | Full drone assembly in SolidWorks. |
-| `Drone Drawing PDF.pdf`          | Technical drawing for manufacturing reference. |
-| `2022MEB1335 Project Report.pdf` | Project report detailing design, analysis, and results. |
-| `README.md`                      | Project README (this file). |
 
 ---
 

@@ -36,23 +36,13 @@ Key features:
 
 ---
 
-## 📃 License & Usage
-
-This project is provided **as-is** for educational and prototyping purposes. You are free to **use, modify, and distribute** the CAD models under the [MIT License](LICENSE) or similar. Please include attribution if you publish derived work.
-
----
-
 ## 👤 Author
 
 **Rajeev Kumar**  
 B.Tech Mechanical Engineering  
 Indian Institute of Technology Ropar  
-Email: *(your email here)*
 
 ---
 
-## 🧭 Acknowledgements
 
-Thank you to the design resources and student project community at **IIT Ropar** for inspiration and peer feedback.  
-Parts of this work draw from standard quadcopter design practices and open-source model-sharing.
 

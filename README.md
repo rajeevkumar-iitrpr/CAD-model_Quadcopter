@@ -2,6 +2,7 @@
 
 A SolidWorks CAD assembly and component library for a quadcopter drone — including base frame, motor mounts, landing gear, propeller, camera mount, and full assembly drawings.
 
+![Drone Assembly](https://github.com/user-attachments/assets/ab2951b3-4a8d-4694-8452-c66435f28a39)
 
 ---
 

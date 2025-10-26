@@ -16,15 +16,6 @@ Key features:
 - Manufacturing-ready drawing for the full assembly.
 - Designed in SolidWorks for ease of editing and simulation.
 
----
-
-## 🛠 How to Use
-
-1. Open the SolidWorks files in the version you have (preferably 2019 or later).  
-2. Review the `Drone Assembly.SLDASM` to see how parts come together.  
-3. Modify individual part files (e.g., change motor size, propeller size) as needed.  
-4. Use the drawing (`.SLDDRW` / PDF) for manufacturing or reference.  
-5. Export parts for printing/machining as required.
 
 ---
 
